@@ -1,0 +1,27 @@
+{
+  "name": "blogging-app",
+  "version": "1.0.0",
+  "description": "blogging app (portfolio aimed)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicosaadjian/node-blogging-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blogging-app"
+  ],
+  "author": "Nicolas Saadjian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicosaadjian/node-blogging-app/issues"
+  },
+  "homepage": "https://github.com/nicosaadjian/node-blogging-app#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg-promise": "^12.3.0"
+  }
+}
